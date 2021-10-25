@@ -1,0 +1,6 @@
+https://generatedata.com/generator (usado para gerar dados aleatórios)
+
+
+1) ajustar as datas de adesão dos planos para que os clientes sejam espalhados durante os ultimos dois meses.
+2) montar uma api para trazer os dados em formato json, usar um jquery (como fizemos no juridico).
+3) montar a rotina de cadastro de clientes (usando jquery) para submeter os dados
